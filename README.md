@@ -619,6 +619,8 @@ gramcare-ai/
 
 </div> <br>
 
+---
+
 | Screen | Description |
 |--------|-------------|
 | Patient Dashboard | 4-card navigation grid with quick actions |
