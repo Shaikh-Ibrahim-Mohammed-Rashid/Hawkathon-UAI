@@ -615,9 +615,9 @@ gramcare-ai/
   <h3>💊 Medicine Search & Tips</h3>
   <img src="https://github.com/Shaikh-Ibrahim-Mohammed-Rashid/Hawkathon-UAI/blob/main/Outputs/medicine%20search.png?raw=true" alt="Medicine Search" width="800">
   <br><br>
-  <img src="https://github.com/Shaikh-Ibrahim-Mohammed-Rashid/Hawkathon-UAI/blob/main/Outputs/tips.png?raw=true" alt="Health Tips" width="800">
+  <img src="https://github.com/Shaikh-Ibrahim-Mohammed-Rashid/Hawkathon-UAI/blob/main/Outputs/tips.png?raw=true" alt="Health Tips" width="800"> <br>
 
-</div>
+</div> <br>
 
 | Screen | Description |
 |--------|-------------|
